@@ -38,7 +38,7 @@ export default function Projects() {
             />
             <Project
             name ={'Map Generator'}
-            description={['Procedural world generation with', <span id='colored'> perlin noise</span>,'']}
+            description={['Procedural world generation with ', <span id='colored'> perlin noise</span>,'']}
             image={minecraftGenerator}
             gitHublink={'https://github.com/Marcozaa/minecraft-proceduralmap-generator'}
             externalLink={null}
