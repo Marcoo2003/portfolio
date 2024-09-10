@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6a51ec3d.css",
+    "main.js": "/portfolio/static/js/main.ba175d01.js",
+    "static/css/146.0aea9392.chunk.css": "/portfolio/static/css/146.0aea9392.chunk.css",
+    "static/js/146.28ed6f59.chunk.js": "/portfolio/static/js/146.28ed6f59.chunk.js",
+    "static/js/601.d71e9225.chunk.js": "/portfolio/static/js/601.d71e9225.chunk.js",
+    "static/js/597.4b18b23e.chunk.js": "/portfolio/static/js/597.4b18b23e.chunk.js",
+    "static/css/235.bc39b1ac.chunk.css": "/portfolio/static/css/235.bc39b1ac.chunk.css",
+    "static/js/235.0bad6a37.chunk.js": "/portfolio/static/js/235.0bad6a37.chunk.js",
+    "static/js/937.4c2b7811.chunk.js": "/portfolio/static/js/937.4c2b7811.chunk.js",
+    "static/media/minecraftGenerator.jpg": "/portfolio/static/media/minecraftGenerator.148376ae98ce756752e8.jpg",
+    "static/media/redditClone.jpg": "/portfolio/static/media/redditClone.2c1ba8e2df645ee0f609.jpg",
+    "static/media/RSAchat.jpg": "/portfolio/static/media/RSAchat.220dbb3adc9c5864098a.jpg",
+    "static/media/techTalk.jpg": "/portfolio/static/media/techTalk.9162d97d15ccaf2591f0.jpg",
+    "static/media/musicPlayer.jpg": "/portfolio/static/media/musicPlayer.42eba8f5b3de9ded153c.jpg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
+    "index.html": "/portfolio/index.html",
+    "main.6a51ec3d.css.map": "/portfolio/static/css/main.6a51ec3d.css.map",
+    "main.ba175d01.js.map": "/portfolio/static/js/main.ba175d01.js.map",
+    "146.0aea9392.chunk.css.map": "/portfolio/static/css/146.0aea9392.chunk.css.map",
+    "146.28ed6f59.chunk.js.map": "/portfolio/static/js/146.28ed6f59.chunk.js.map",
+    "601.d71e9225.chunk.js.map": "/portfolio/static/js/601.d71e9225.chunk.js.map",
+    "597.4b18b23e.chunk.js.map": "/portfolio/static/js/597.4b18b23e.chunk.js.map",
+    "235.bc39b1ac.chunk.css.map": "/portfolio/static/css/235.bc39b1ac.chunk.css.map",
+    "235.0bad6a37.chunk.js.map": "/portfolio/static/js/235.0bad6a37.chunk.js.map",
+    "937.4c2b7811.chunk.js.map": "/portfolio/static/js/937.4c2b7811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a51ec3d.css",
+    "static/js/main.ba175d01.js"
+  ]
+}
